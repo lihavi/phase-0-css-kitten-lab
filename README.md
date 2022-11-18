@@ -52,7 +52,7 @@ creating CSS rules for a bunch of different kitten image elements. It's your job
 to use CSS selectors to apply the correct positioning to each of these elements.
 
 To get started with this lab, open the `index.html` file in the browser. Use the
-comments in `css/place-kitty.css` to write the correct selectors to move each
+comments in to write the correct selectors to move each
 kitty into the wheelbarrow.
 
 ## Conclusion
